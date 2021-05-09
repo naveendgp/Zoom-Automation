@@ -10,8 +10,8 @@ dummyClass = ("11:47")
 ''' enter the link in within quotation'''
 
 english = ("https://us04web.zoom.us/j/78017781429?pwd=cURFeG5EKzc2cmYyY2QvS21TSTJ6Zz09")
-maths = ("link enter ")
-biology = ("link enter ")
-physics = ("link enter ")
-chemistry = ("link enter ")
-dummy = ("link enter ")
+maths = ("enter your link ")
+biology = ("enter your link ")
+physics = ("enter your link ")
+chemistry = ("enter your link ")
+dummy = ("enter your link ")
