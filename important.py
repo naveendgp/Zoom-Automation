@@ -21,7 +21,7 @@ def joinaAudio():
         ok = pyautogui.locateOnScreen('ok.png')
         pyautogui.click(ok)
 
-def msTeams():
+def google_meet():
     time.sleep(6)  # takes time to load cam and glitches sometimes so i set it higher
     keyboard.send("tab", do_press=True, do_release=True)
     keyboard.send("tab", do_press=True, do_release=True)
