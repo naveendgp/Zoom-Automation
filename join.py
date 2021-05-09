@@ -16,7 +16,7 @@ def joinEnglish():
     driver.quit()
 
 def joinPhysics():
-    driver = webdriver.Chrome('D:\\web driver\\chromedriver.exe')
+    driver = webdriver.Chrome('D:\\web driver\\chromedriver.exe')#enter the path where you stored you're chrome driver
     driver.get(physics)
     time.sleep(5)  # seconds
     important.zoomJoin()#If you're using google meet just replace zoomJoin() with google_meet()
